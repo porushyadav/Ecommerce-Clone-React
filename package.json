@@ -2,19 +2,34 @@
   "name": "ecommerce-clone-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://porushyadav.github.io/ecommerce-clone-React/",
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^1.2.30",
+    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/react-fontawesome": "^0.1.11",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
     "react": "^16.13.1",
+    "react-awesome-button": "^6.5.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.3"
+    "react-fontawesome": "^1.7.1",
+    "react-rating-stars-component": "^2.2.0",
+    "react-redux": "^7.2.1",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^2.1.8",
+    "react-toastify": "^6.0.8",
+    "redux": "^4.0.5",
+    "redux-logger": "^3.0.6",
+    "redux-thunk": "^2.3.0"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"

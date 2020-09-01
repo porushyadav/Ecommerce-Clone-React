@@ -1,0 +1,12 @@
+export const FETCH_DATA = "FETCH_DATA";
+export const INCREASE_QTY = "INCREASE_QTY";
+export const DECREASE_QTY = "DECREASE_QTY";
+export const DELETE_PRODUCT = "DELETE_PRODUCT";
+export const ADD_CART = "ADD_CART";
+export const REMOVE_CART = "REMOVE_CART";
+export const LOADING = "LOADING";
+export const ADD_PRODUCTS = "ADD_PRODUCTS";
+export const SORT_DATA = "SORT_DATA";
+export const Update_CART = "Update_CART";
+export const EDIT_PRODUCT = "EDIT_PRODUCT";
+export const UPDATE_PRODUCT = "UPDATE_PRODUCT";
