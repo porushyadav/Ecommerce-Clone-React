@@ -9,7 +9,7 @@ class Navbar extends Component {
         <nav className="nav">
           <div className="left-div">
             <ul>
-              <Link to="/ecommerce-clone-React">
+              <Link to="/Ecommerce-clone1-React">
                 <li className="search-results-row">
                   <img
                     src="https://image.flaticon.com/icons/svg/3081/3081559.svg"

@@ -20,10 +20,6 @@ class CheckOut extends Component {
     this.props.dispatch(decreaseProductQty(product));
   };
 
-  deleteProduct = (product) => {
-    this.props.dispatch(deleteProduct(product));
-  };
-
   addToCard = (product) => {
     this.increaseQty(product);
     this.props.dispatch(addCart(product));
@@ -129,21 +125,6 @@ class CheckOut extends Component {
                         Add to Cart
                       </button>
                     )}
-                  </div>
-                  <div className="cursor">
-                    <img
-                      className="increase-decrease "
-                      src="https://image.flaticon.com/icons/svg/481/481874.svg"
-                      alt="edit"
-                    />
-                    <img
-                      className="increase-decrease cursor"
-                      src="https://image.flaticon.com/icons/svg/1632/1632602.svg"
-                      alt="delete"
-                      onClick={() => {
-                        this.deleteProduct(product);
-                      }}
-                    />
                   </div>
                 </div>
               </div>

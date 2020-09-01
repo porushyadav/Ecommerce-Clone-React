@@ -13,7 +13,7 @@ class App extends Component {
           <ToastContainer autoClose={1500} />
           <Navbar />
           <Switch>
-            <Route path="/ecommerce-clone-React" exact component={Home} />
+            <Route path="/Ecommerce-clone1-React" exact component={Home} />
             <Route path="/AddProduct" component={AddProduct} />
             <Route path="/checkout" component={CheckOut} />
             <Route path="/editProduct" component={editProduct} />
