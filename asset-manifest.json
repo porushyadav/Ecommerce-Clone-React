@@ -1,15 +1,15 @@
 {
-  "main.css": "/Ecommerce-Clone-React/static/css/main.d9da3f75.chunk.css",
-  "main.js": "/Ecommerce-Clone-React/static/js/main.cb84294e.chunk.js",
-  "main.js.map": "/Ecommerce-Clone-React/static/js/main.cb84294e.chunk.js.map",
-  "runtime~main.js": "/Ecommerce-Clone-React/static/js/runtime~main.0bd1e79e.js",
-  "runtime~main.js.map": "/Ecommerce-Clone-React/static/js/runtime~main.0bd1e79e.js.map",
-  "static/css/2.4bebb8b3.chunk.css": "/Ecommerce-Clone-React/static/css/2.4bebb8b3.chunk.css",
-  "static/js/2.56552274.chunk.js": "/Ecommerce-Clone-React/static/js/2.56552274.chunk.js",
-  "static/js/2.56552274.chunk.js.map": "/Ecommerce-Clone-React/static/js/2.56552274.chunk.js.map",
-  "index.html": "/Ecommerce-Clone-React/index.html",
-  "precache-manifest.58ca89e53d4f5211fa2f9ca4cd660889.js": "/Ecommerce-Clone-React/precache-manifest.58ca89e53d4f5211fa2f9ca4cd660889.js",
-  "service-worker.js": "/Ecommerce-Clone-React/service-worker.js",
-  "static/css/2.4bebb8b3.chunk.css.map": "/Ecommerce-Clone-React/static/css/2.4bebb8b3.chunk.css.map",
-  "static/css/main.d9da3f75.chunk.css.map": "/Ecommerce-Clone-React/static/css/main.d9da3f75.chunk.css.map"
+  "main.css": "/Ecommerce-clone-React/static/css/main.d9da3f75.chunk.css",
+  "main.js": "/Ecommerce-clone-React/static/js/main.fd654fbd.chunk.js",
+  "main.js.map": "/Ecommerce-clone-React/static/js/main.fd654fbd.chunk.js.map",
+  "runtime~main.js": "/Ecommerce-clone-React/static/js/runtime~main.8deddea4.js",
+  "runtime~main.js.map": "/Ecommerce-clone-React/static/js/runtime~main.8deddea4.js.map",
+  "static/css/2.4bebb8b3.chunk.css": "/Ecommerce-clone-React/static/css/2.4bebb8b3.chunk.css",
+  "static/js/2.56552274.chunk.js": "/Ecommerce-clone-React/static/js/2.56552274.chunk.js",
+  "static/js/2.56552274.chunk.js.map": "/Ecommerce-clone-React/static/js/2.56552274.chunk.js.map",
+  "index.html": "/Ecommerce-clone-React/index.html",
+  "precache-manifest.1f448b82db302f8d8624c62dd505c040.js": "/Ecommerce-clone-React/precache-manifest.1f448b82db302f8d8624c62dd505c040.js",
+  "service-worker.js": "/Ecommerce-clone-React/service-worker.js",
+  "static/css/2.4bebb8b3.chunk.css.map": "/Ecommerce-clone-React/static/css/2.4bebb8b3.chunk.css.map",
+  "static/css/main.d9da3f75.chunk.css.map": "/Ecommerce-clone-React/static/css/main.d9da3f75.chunk.css.map"
 }
